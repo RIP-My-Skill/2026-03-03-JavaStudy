@@ -1,0 +1,8 @@
+import java.io.*;
+public class 변수_4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println((int)'A');
+	}
+}
