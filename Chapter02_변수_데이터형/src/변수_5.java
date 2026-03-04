@@ -28,7 +28,7 @@ public class 변수_5 {
 		
 		/*
 		 * int sand = 250; 
-		 * int apple = 100; 
+		 * int apple = 100;  
 		 * int juice = 150; 
 		 * System.out.println("총 칼로리:" + (sand+apple*2+juice));
 		 */	
